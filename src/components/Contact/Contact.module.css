@@ -8,7 +8,7 @@
     background-color: beige;
     color: #000;
     gap: 24px;
-    width: calc((1060px - 230px) / 4);
+    width: calc((1060px - 170px) / 3);
 }
 
 .info {
